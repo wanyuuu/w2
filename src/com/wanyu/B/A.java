@@ -17,5 +17,6 @@ public class A {
         for (Object t:s) {
             System.out.println(t);
         }
+        System.out.println("OK");
     }
 }
